@@ -1,0 +1,3 @@
+name: MinecraftPlugin
+main: cn.ymsys.example.MyPlugin
+version: 0.1
